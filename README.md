@@ -18,7 +18,7 @@ Used Google CodeLabs' [TensorFlow For Poets](https://codelabs.developers.google.
  python /tf_files/label_hotnot.py /tf_files/testImages/hotdog.jpg
  ```
  ## Tests:
- 1. hotdog
+ 1. hotdog                  
 ![result_hotdog](https://user-images.githubusercontent.com/8012968/28502253-1506c7c6-700c-11e7-8608-710f401ec81d.png)
 
  2. Something else

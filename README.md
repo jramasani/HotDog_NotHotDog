@@ -20,10 +20,10 @@ Used Google CodeLabs' [TensorFlow For Poets](https://codelabs.developers.google.
  ## Tests:
  1. hotdog
  ![Image of hotdog result]
- (https://github.com/jramasani/hotdog-nothotdog/blob/master/screenshots/Result_hotdog.png)
+ (https://raw.github.com/jramasani/hotdog-nothotdog/blob/master/screenshots/Result_hotdog.png)
  2. Something else
  ![Image of rose result]
- (https://github.com/jramasani/hotdog-nothotdog/blob/master/screenshots/Result_rose.png)
+ (https://raw.github.com/jramasani/hotdog-nothotdog/blob/master/screenshots/Result_rose.png)
  
  
  

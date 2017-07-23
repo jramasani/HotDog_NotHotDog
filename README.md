@@ -21,8 +21,7 @@ Used Google CodeLabs' [TensorFlow For Poets](https://codelabs.developers.google.
  1. hotdog                  
 ![result_hotdog](https://user-images.githubusercontent.com/8012968/28502253-1506c7c6-700c-11e7-8608-710f401ec81d.png)
 
- 2. Something else
- ![Image of rose result]
+ 2. Something else              
  ![result_rose](https://user-images.githubusercontent.com/8012968/28502254-153ce7b6-700c-11e7-8d0f-28b20391d451.png)
  
  

@@ -1,7 +1,7 @@
 # hotdog-nothotdog
 "What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog?"  -Jian-Yang
 
-This is a TensorFlow Image Classifier that can be used to classify whether an image is hotdog or nothotdog. Inspired by Mr. Jian-Yang from HBO's Silicon Valley. [Watch Demo here!](https://www.youtube.com/watch?v=ACmydtFDTGs)
+This is a TensorFlow Image Classifier that can be used to classify whether an image is hotdog or nothotdog. Inspired by Mr. Jian-Yang from HBO's Silicon Valley. [Watch Demo here!](https://www.youtube.com/watch?v=ACmydtFDTGs) :) 
 
 Used Google CodeLabs' [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0) as a guide. 
 
